@@ -87,7 +87,4 @@ ecommerce_project/
 - Payment gateway integration
 - Discount/coupon system
 
-## Author
 
-**Venkata Karthik Goriparthi**
-[LinkedIn](#) • [GitHub](#)
